@@ -3,7 +3,7 @@
 "productName": "HappyWheels",
 "productVersion": "0.1",
 "dataUrl": "https://cdn.jsdelivr.net/gh/collasperz/HappyWheels/Build/HappyWheels.data.unityweb",
-"wasmCodeUrl": "https://gitlab.com/collasperz/HappyWheels/-/raw/main/Build/HappyWheels.wasm.code.unityweb",
+"wasmCodeUrl": "/Build/HappyWheels.wasm.code.unityweb",
 "wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/collasperz/HappyWheels/Build/HappyWheels.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
